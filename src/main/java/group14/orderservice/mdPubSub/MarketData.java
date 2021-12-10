@@ -1,4 +1,4 @@
-package com.example.marketdataservice.marketData.dto;
+package group14.orderservice.mdPubSub;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
